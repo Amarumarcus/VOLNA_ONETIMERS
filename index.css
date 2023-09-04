@@ -1,0 +1,58 @@
+body {
+    background-image: url("VOLNA.jpg");
+    background-position: center;
+    background-size: cover;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+    margin-top: 50px;
+}
+
+.conteiner {
+    background: rgba(255,255,255,0.57);
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    
+            
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    -webkit-text-stroke: 0.4px white;
+    color: black;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 2px solid whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background: skyblue;
+}
+
+#save-btn {
+    background: lightseagreen;
+}
+
+p {
+    font-size: 30px;
+    -webkit-text-stroke: 0.5px blue;
+    color: black;
+}
